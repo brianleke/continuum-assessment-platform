@@ -1,2 +1,3 @@
 # continuum-assessment-platform
 
+#Build Status [https://travis-ci.org/brianleke/continuum-assessment-platform.svg?branch=master]
